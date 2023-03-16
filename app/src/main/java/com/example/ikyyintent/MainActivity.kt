@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         setContentView(R.layout.activity_main)
 
         val btnSatu: Button = findViewById(R.id.btn_1)
-        btnSatu.setOnClicklistener(this)
+        btnSatu.setOnClickListener(this)
 
     }
 
